@@ -1,4 +1,4 @@
-# BookStore App Using MERN Tack
+# E-BookStore App Using MERN Tack
 
 ![image](https://github.com/user-attachments/assets/c280b1a6-1007-4f47-b711-12668777540f)
 
